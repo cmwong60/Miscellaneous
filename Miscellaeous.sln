@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackupUtils", "BackupUtils\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuplcateFilesManager", "DuplcateFilesManager\DuplcateFilesManager.csproj", "{859E5157-82DB-40B0-A3C7-088D69F5E6DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncodeMessage", "EncodeMessage\EncodeMessage.csproj", "{6BF0DC20-6782-4DBF-A587-3B143E45302F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{859E5157-82DB-40B0-A3C7-088D69F5E6DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{859E5157-82DB-40B0-A3C7-088D69F5E6DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{859E5157-82DB-40B0-A3C7-088D69F5E6DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BF0DC20-6782-4DBF-A587-3B143E45302F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BF0DC20-6782-4DBF-A587-3B143E45302F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BF0DC20-6782-4DBF-A587-3B143E45302F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BF0DC20-6782-4DBF-A587-3B143E45302F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
