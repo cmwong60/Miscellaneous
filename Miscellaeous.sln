@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YouTube2MP31", "YouTube2Mp31\YouTube2MP31.csproj", "{3A62E1EE-091D-4154-A9A9-2D7358AB17E7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackupUtils", "BackupUtils\BackupUtils.csproj", "{0B2A1FEB-B1B2-4EFA-8BE6-54F2058488CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuplcateFilesManager", "DuplcateFilesManager\DuplcateFilesManager.csproj", "{859E5157-82DB-40B0-A3C7-088D69F5E6DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{3A62E1EE-091D-4154-A9A9-2D7358AB17E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A62E1EE-091D-4154-A9A9-2D7358AB17E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A62E1EE-091D-4154-A9A9-2D7358AB17E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B2A1FEB-B1B2-4EFA-8BE6-54F2058488CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B2A1FEB-B1B2-4EFA-8BE6-54F2058488CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B2A1FEB-B1B2-4EFA-8BE6-54F2058488CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B2A1FEB-B1B2-4EFA-8BE6-54F2058488CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{859E5157-82DB-40B0-A3C7-088D69F5E6DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{859E5157-82DB-40B0-A3C7-088D69F5E6DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{859E5157-82DB-40B0-A3C7-088D69F5E6DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{859E5157-82DB-40B0-A3C7-088D69F5E6DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
